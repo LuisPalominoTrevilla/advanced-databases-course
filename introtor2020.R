@@ -156,6 +156,7 @@ students.data.5 <- rbind(students.data.5, info.hector)
 students.data.5 <- rbind(students.data.5, info.marcus)
 students.data.5 <- rbind(students.data.5, info.labrada)
 
+
 # Get working directory
 getwd()
 save(students.data.5, file = "students.data.5.R")
@@ -163,7 +164,7 @@ save(students.data.5, file = "students.data.5.R")
 # Write to csv
 write.csv(students.data.5, file = "students.data.5.csv")
 
-# Read to csv
+# Read from csv
 students.full.data <- read.csv("students.full.data.csv", stringsAsFactors = F)
 students.full.data
 
@@ -178,3 +179,6 @@ students.full.data[students.full.data$soccer.team == "chivas", c("name")]
 students.full.data[17, "soccer.team"] <- "barca"
 
 students.full.data[students.full.data$soccer.team == "barca", c("name")]
+students.full.data[students.full.data$age >= 18, c("name", "age")]
+students.full.data[students.full.data$significant.other == T, c("name", "age")]
+students.full.data[students.full.data$significant.other == F, c("name", "age")]
