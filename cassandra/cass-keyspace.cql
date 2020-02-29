@@ -2,9 +2,9 @@
 
 # create keyspace
 CREATE KEYSPACE precission_agriculture
-	WITH REPLICATION = {
-		'class' : 'SimpleStrategy', 'replication_factor': 1
-	};
+WITH REPLICATION = {
+	'class' : 'SimpleStrategy', 'replication_factor': 1
+};
 
 # show keyspaces
 describe keyspaces

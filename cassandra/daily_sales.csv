@@ -1,0 +1,63 @@
+product_name,order_number,date,product_quantity,unit_price,total,product_description,sales_person,client_email,tax
+Espolvoreadas,45873,2020-02-22,60,7.5,900.59998,Deliciosas donas blancas,Alan,a0163689@itesm.mx,82.75
+burger,67123,2020-02-14,2,150,300,a nice meal,juan,client2@email.mx,15
+iPhone,1,2020-02-14,3,28000.5,54000,The Best Cellphone,Alberto,hola@gmail.com,8640
+Water,12415,2020-02-18,1,12,12,H2O water,albert,ele@gmail.com,16
+Xiami,5,2020-02-18,2,15000.25,30000.5,The,Ernesto,elbuenpepe@gmail.com,8640
+Samsung,2,2020-02-15,4,20000.66992,8e+05,The Cellphone,Alex,hola123@gmail.com,8640
+pencil,91283,2020-02-26,5,90,450,pencil,alan,alan@mail.com,6
+LG,4,2020-02-17,1,30000.7793,30000.7793,The Cell,Fernando,lepe@gmail.com,8640
+ciel,300,2020-01-01,1,10.5,10.5,awa 500ml,Helben Dedor,alanelver@hotmail.com,0.1
+coca cola,100,2020-01-01,1,10.5,10.5,soda of 600ml,Helben Dedor,albertolabradasoto@hotmail.com,0.2
+pepsi,200,2020-01-01,2,10,20,soda of 600ml,Helben Dedor,danylepe@hotmail.com,0.2
+borrador,37398,2020-01-18,2,15,34.8,pencil No.2,Hector,client7@gmail.com,4.8
+coca_cola,67538,2020-02-12,1,10,10,a nice drink,thomas,client@email.mx,15
+Steak,11827,2020-03-01,15,100,1500,Big steak,Guido,guido@gmail.com,150
+Trapeador,29262,2020-03-01,1,45,45,Para trapear,Alan,a01229260@itesm.mx,4.5
+book,36234,2020-01-07,2,150,348,book 200 pages,Rojo,client3@gmail.com,48
+Tortillas tia Rosa,45874,2020-02-23,10,19.5,195.78,Tortillas con su delicioso sabor casero,Alan,a0163680@itesm.mx,20.75
+tshirt,18254,2020-02-23,5,100,500,aeropostale tshirt,memin pinguin,alguien@algo.com,1.2
+yarn,91284,2020-02-27,6,100,600,yarn,alex,alex@mail.com,10
+Cloro,29261,2020-02-29,4,28,112,Quita manchas,Alan,a01229260@itesm.mx,10.5
+Pan Bimbo GRANDE,72721,2020-02-29,2,33.5,67,Pan blanco,Jose,customer1@hotmail.com,10.72
+xiaomi,90351,2020-02-29,1,8000,8000,mejor relacion calidad precio del mercado,david \"el rojo\" perez,alguien@algo.com,2.4
+pencil,36357,2020-01-15,5,10,58,pencil No.2,Paco,client7@gmail.com,8
+Sony,3,2020-02-16,5,10000,50000,The phone,Luis,daniel@gmail.com,8640
+chair,37658,2020-02-16,5,102,510,wooden good looking chairs,Lepeson,Grim@gmail.com,16
+tacos,72905,2020-02-16,5,10,50,the best of mexican,david,client3@email.mx,15
+Nito,45872,2020-02-21,50,5.5,800.5,Negrito sin racismo,Alan,a0163687@itesm.mx,25.75
+bdcake,12235,2020-02-21,5,5,25,pastel,Aries,yopaCu@gmail.com,0.5
+macbook,34672,2020-02-21,1,15000,15000,very expensive laptop,memin pinguin,alguien@algo.com,10
+papas,13584,2020-02-21,5,48.5,242.5,sabritonez,Guido,kakashifabian@gmail.com,0.5
+pasto artificial,17716,2020-02-21,5,10,50,pasto,Tachas,kienpaCu@gmail.com,0.5
+Oreo,10708,2020-02-20,3,7,21,chocolate cookies,pedro,paks@gmail.com,16
+Caguama ,96001,2020-02-28,1,35,40,Caguama,Luis,luis7@gmail.com,5
+Chips,72638,2020-02-28,5,18,90,Delicious chips,Andre,andre@gmail.com,9
+Chocolate,11112,2020-02-28,2,25,50,Kit Kat,Jose,principito@gmail.com,0.8
+Don Julio 70,96000,2020-02-28,1,800,4000,Tequila,Luis ,luis7@gmail.com,150
+Ice Cream,22716,2020-02-28,3,25,75,Vanilla Ice Cream,Mayra,mayra@gmail.com,7.5
+Jeans,45962,2020-02-28,2,350,700,blue jeans,Mayra,jeanssales@gmail.com,40
+Phone Case,13294,2020-02-28,1,25,25,Case for iPhone,patricio,patrik@gmail.com,1.6
+Pinol,29260,2020-02-28,2,12,24,Para limpiar bien,Alan,a01229260@itesm.mx,2.5
+Sabritas,88719,2020-02-28,3,14,42,chips,Juanito,customer1@hotmail.com,6.72
+Soda,11116,2020-02-28,3,12,36,Coke,Roberto,robrtar@gmail.com,1.2
+Ultra ,96002,2020-02-28,1,20,40,Cerveza,Luis,luis7@gmail.com,5
+bracelets,14695,2020-02-28,1,1000,1000,gold bracelets,Mayra,goldbracelets@gmail.com,200
+carrot cake,85846,2020-02-28,3,4.15,12.45,carrot cake with raisin,Juan,michel@gmail.com,1.3
+cheasecake,18575,2020-02-28,1,3.5,3.5,speculoos cheesecake,Pablo,maria@gmail.com,0.6
+cookie,24578,2020-02-28,2,2.5,5,chocolate chips cookies,Wendy,pablo@gmail.com,0.4
+cuchara,50431,2020-02-28,10,50,58,telefono personal,raul,luis@tec.mx,8
+fanta 600 ml,25893,2020-02-28,1,14.2,14.2,orange flavor soda,carlos,alonso@outlook.com,2.27
+gansito,1,2020-02-28,1,10.5,10.5,rico pastelito,juan x,ado@tec.mx,2.5
+glasses,23654,2020-02-28,5,800,4000,glasses,Mayra,glasses@gmail.com,450
+lenovo y10,54438,2020-02-28,1,33000,38280,computadora personal,raul,luis@tec.mx,5280
+milk,38623,2020-02-28,2,20,60,1L milk,Marta,moomoocow@gmail.com,0
+oreo,30128,2020-02-28,2,10,20,delicious cookies with cream,roberto,erick@outlook.com,3.2
+pen,91285,2020-02-28,7,200,1400,pen,guido,guido@mail.com,21
+pink sunglasses,89076,2020-02-28,1,200,200,sunglasses with pink frame,john smith,example@gmail.com,0
+samsung s10,15819,2020-02-28,1,19999.99023,23199.99023,telefono personal,raul,luis@tec.mx,3199.98999
+soccer ball,18351,2020-02-28,1,300,300,black and white ball,Martin,lionelmessi@gmail.com,40
+soccer shoes,12345,2020-02-28,1,1300,1300,nike red boots,Martin,lionelmessi@gmail.com,85
+sprite 600 ml,13302,2020-02-28,2,18,36,taste the Feeling,juan,hector@outlook.com,5.76
+teddy bear,74598,2020-02-28,20,30,600,stuffed bear toy,john smith,somebody@example.com,0
+torta ahogada,23478,2020-02-28,2,20,40,traditional jaliscan food,jane doe,foo.bar@gmail.com,0
