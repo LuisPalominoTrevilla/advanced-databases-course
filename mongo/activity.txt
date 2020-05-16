@@ -1,0 +1,46 @@
+db.jobs.insert({
+  "title": "Software Engineer Intern",
+  "company": "Microsoft",
+  "location": "Seattle",
+  "compensation": 7800
+});
+
+db.jobs.insert({
+  "title": "Software Engineer II",
+  "company": "Twitter",
+  "location": "Seattle",
+  "compensation": 9670
+});
+
+db.jobs.insert({
+  "title": "Software Engineer E6",
+  "company": "Facebook",
+  "location": "Menlo Park",
+  "compensation": 24500
+});
+
+db.jobs.insert({
+  "title": "Software Engineer L4",
+  "company": "Google",
+  "location": "Seattle",
+  "compensation": 18090
+});
+
+db.jobs.insert({
+  "title": "Software Engineer Intern",
+  "company": "Google",
+  "location": "Menlo Park",
+  "compensation": 5600
+});
+
+# Find jobs that pay over 9000 monthly
+db.jobs.find({"compensation": {$gt: 9000}});
+
+# Find jobs in Seattle
+db.jobs.find({"location": "Seattle"});
+
+# Find jobs in Menlo Park
+db.jobs.find({"location": "Menlo Park"});
+
+# Find jobs in seattle over 15k
+db.jobs.find({"compensation": {$gt: 15000}, "location": "Seattle"});
